@@ -1,7 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a12e72c0-f471-41c2-9345-3b5f405a6b55" name="Default Changelist" comment="" />
+    <list default="true" id="a12e72c0-f471-41c2-9345-3b5f405a6b55" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/loan.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Data_Dictionary.xlsx" beforeDir="false" afterPath="$PROJECT_DIR$/data/Data_Dictionary.xlsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lending-case-study.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/lending-case-study.ipynb" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -23,6 +33,11 @@
     <property name="aspect.path.notification.shown" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/data" />
+    </key>
+  </component>
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -34,21 +49,87 @@
       <option name="presentableId" value="Default" />
       <updated>1656687356389</updated>
       <workItem from="1656687358180" duration="102000" />
-      <workItem from="1656687535639" duration="39000" />
+      <workItem from="1656687535639" duration="371000" />
+      <workItem from="1657005799955" duration="214000" />
+      <workItem from="1657014649627" duration="1311000" />
     </task>
+    <task id="LOCAL-00001" summary="EDA Analysis ....">
+      <created>1657005921534</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1657005921534</updated>
+    </task>
+    <task id="LOCAL-00002" summary="EDA Analysis ....">
+      <created>1657014789492</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1657014789492</updated>
+    </task>
+    <task id="LOCAL-00003" summary="EDA Analysis ....">
+      <created>1657015071664</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1657015071664</updated>
+    </task>
+    <task id="LOCAL-00004" summary="other files">
+      <created>1657015178248</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1657015178248</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="EDA Analysis ...." />
+    <MESSAGE value="other files" />
+    <option name="LAST_COMMIT_MESSAGE" value="other files" />
   </component>
   <component name="WindowStateProjectService">
     <state x="440" y="187" key="#Inspections" timestamp="1656687572604">
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
     <state x="440" y="187" key="#Inspections/0.0.1680.1050@0.0.1680.1050" timestamp="1656687572604" />
-    <state x="517" y="354" key="com.intellij.ide.util.TipDialog" timestamp="1656687536467">
+    <state x="429" y="124" key="CommitChangelistDialog2" timestamp="1657016257734">
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
-    <state x="517" y="354" key="com.intellij.ide.util.TipDialog/0.0.1680.1050@0.0.1680.1050" timestamp="1656687536467" />
+    <state x="429" y="124" key="CommitChangelistDialog2/0.0.1680.1050@0.0.1680.1050" timestamp="1657016257734" />
+    <state x="100" y="77" width="1480" height="871" key="DiffContextDialog" timestamp="1657016290487">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state x="100" y="77" width="1480" height="871" key="DiffContextDialog/0.0.1680.1050@0.0.1680.1050" timestamp="1657016290487" />
+    <state x="100" y="100" width="1480" height="850" key="DiffContextDialog/0.25.1680.1025@0.25.1680.1025" timestamp="1657005864118" />
+    <state x="692" y="445" key="VCS.ChangelistChooser" timestamp="1657016172018">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state x="692" y="445" key="VCS.ChangelistChooser/0.0.1680.1050@0.0.1680.1050" timestamp="1657016172018" />
+    <state x="440" y="262" key="Vcs.Push.Dialog.v2" timestamp="1657015431189">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state x="440" y="262" key="Vcs.Push.Dialog.v2/0.0.1680.1050@0.0.1680.1050" timestamp="1657015431189" />
+    <state x="517" y="354" key="com.intellij.ide.util.TipDialog" timestamp="1657014677929">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state x="517" y="354" key="com.intellij.ide.util.TipDialog/0.0.1680.1050@0.0.1680.1050" timestamp="1657014677929" />
   </component>
 </project>
